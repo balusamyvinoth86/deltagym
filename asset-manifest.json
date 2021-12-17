@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/deltagym/static/css/main.0033b37b.chunk.css",
+    "main.js": "/deltagym/static/js/main.567a847c.chunk.js",
+    "main.js.map": "/deltagym/static/js/main.567a847c.chunk.js.map",
+    "runtime-main.js": "/deltagym/static/js/runtime-main.c6350daf.js",
+    "runtime-main.js.map": "/deltagym/static/js/runtime-main.c6350daf.js.map",
+    "static/js/2.95793437.chunk.js": "/deltagym/static/js/2.95793437.chunk.js",
+    "static/js/2.95793437.chunk.js.map": "/deltagym/static/js/2.95793437.chunk.js.map",
+    "index.html": "/deltagym/index.html",
+    "static/css/main.0033b37b.chunk.css.map": "/deltagym/static/css/main.0033b37b.chunk.css.map",
+    "static/js/2.95793437.chunk.js.LICENSE.txt": "/deltagym/static/js/2.95793437.chunk.js.LICENSE.txt",
+    "static/media/1.0e37b507.svg": "/deltagym/static/media/1.0e37b507.svg",
+    "static/media/2.b9a2a0ce.svg": "/deltagym/static/media/2.b9a2a0ce.svg",
+    "static/media/3.70a91c09.svg": "/deltagym/static/media/3.70a91c09.svg",
+    "static/media/4.7eb09c3d.svg": "/deltagym/static/media/4.7eb09c3d.svg",
+    "static/media/about.03399dbc.png": "/deltagym/static/media/about.03399dbc.png",
+    "static/media/index.css": "/deltagym/static/media/banner.8f5b3dec.png",
+    "static/media/Offer.css": "/deltagym/static/media/offer.1cafdcd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6350daf.js",
+    "static/js/2.95793437.chunk.js",
+    "static/css/main.0033b37b.chunk.css",
+    "static/js/main.567a847c.chunk.js"
+  ]
+}
